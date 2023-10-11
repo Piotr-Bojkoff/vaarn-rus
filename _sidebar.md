@@ -1,6 +1,6 @@
 - [Начало](/)
 - [О Ваарне](о-ваарне.md)
-- [Creating Characters](creating-characters.md)
+- [Создание персонажей](создание-персонажей.md)
   - [Ancestries](ancestries.md)
   - [Equipment](equipment.md)
   - [Exotica](exotica.md)
