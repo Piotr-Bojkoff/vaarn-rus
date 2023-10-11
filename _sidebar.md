@@ -1,5 +1,5 @@
 - [Начало](/)
-- [Что есть Ваарн?](что-есть-ваарн.md)
+- [О ваарне](о-ваарне.md)
 - [Creating Characters](creating-characters.md)
   - [Ancestries](ancestries.md)
   - [Equipment](equipment.md)
