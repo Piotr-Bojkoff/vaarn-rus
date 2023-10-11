@@ -1,5 +1,5 @@
 - [Начало](/)
-- [What is Vaarn?](what-is-vaarn.md)
+- [Что есть Ваарн?](что-есть-ваарн.md)
 - [Creating Characters](creating-characters.md)
   - [Ancestries](ancestries.md)
   - [Equipment](equipment.md)
