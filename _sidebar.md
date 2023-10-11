@@ -1,7 +1,7 @@
 - [Начало](/)
 - [О Ваарне](о-ваарне.md)
 - [Создание персонажей](создание-персонажей.md)
-  - [Ancestries](ancestries.md)
+  - [Расы](расы.md)
   - [Equipment](equipment.md)
   - [Exotica](exotica.md)
   - [Mystic Gifts](mystic-gifts.md)
