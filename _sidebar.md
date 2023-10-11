@@ -21,3 +21,5 @@
 
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)
+
+Сайдбар работает
