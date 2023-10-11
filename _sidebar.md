@@ -1,5 +1,5 @@
 - [Начало](/)
-- [О ваарне](о-ваарне.md)
+- [О Ваарне](о-ваарне.md)
 - [Creating Characters](creating-characters.md)
   - [Ancestries](ancestries.md)
   - [Equipment](equipment.md)
