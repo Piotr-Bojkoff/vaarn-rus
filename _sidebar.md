@@ -2,7 +2,7 @@
 - [О Ваарне](о-ваарне.md)
 - [Создание персонажей](создание-персонажей.md)
   - [Расы](расы.md)
-  - [Equipment](equipment.md)
+  - [Снаряжение](снаряжение.md)
   - [Exotica](exotica.md)
   - [Mystic Gifts](mystic-gifts.md)
   - [Cybernetics](cybernetics.md)
